@@ -3,6 +3,7 @@ def find_even_values(src)
   #
   # Output all even values in each nested array
   p find_even_values[0][0]
-  p find_even_values
+  p find_even_values[1][1]
+  p find_even_values[1][3]
 
 end
